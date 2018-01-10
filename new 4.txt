@@ -1,1 +1,3 @@
 sprawdzam czy dziala
+
+// pierwszy koment zeby sprawdzic czy modyfikowany zadzaiala
