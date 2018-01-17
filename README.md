@@ -1,1 +1,1 @@
-# gittrening
+sprawdzamy czy jest zmaina
